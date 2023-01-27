@@ -37,6 +37,7 @@ Publish the website in the given URL.
          Figma
 
 ## PROGRAM :
+```
        /* Home Page */
 position: relative;
 width: 360px;
@@ -148,6 +149,7 @@ height: 96px;
 left: 127px;
 top: 117px;
 background: url(Logo.png);
+```
 
 
 ## OUTPUT:
